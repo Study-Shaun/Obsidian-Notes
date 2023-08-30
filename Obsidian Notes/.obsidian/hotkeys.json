@@ -1,0 +1,29 @@
+{
+  "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-new-tab": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
+  "editor:delete-paragraph": [],
+  "hotkeysplus-obsidian:duplicate-lines-down": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "hotkeysplus-obsidian:clear-current-line": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "X"
+    }
+  ]
+}
